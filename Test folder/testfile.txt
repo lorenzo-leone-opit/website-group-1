@@ -1,0 +1,4 @@
+# Test File
+
+This is a test file located in the `Test folder` directory. It is part of the Web Development course for Term 2 at the University. This file is used for testing purposes in the `website-group-1` project.
+
